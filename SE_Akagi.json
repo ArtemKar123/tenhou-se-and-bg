@@ -1,6 +1,8 @@
 {
   "ver":1.0,
   "se":{
+    "4":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/akagi/act_pon.mp3"},
+    "5":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/akagi/act_kan.mp3"},
     "25":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/akagi/act_pon.mp3"},
     "26":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/washizu/act_pon.mp3"},
     "27":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/akagi/act_kan.mp3"},
